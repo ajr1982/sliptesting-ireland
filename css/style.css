@@ -2580,6 +2580,7 @@ figure figcaption {
   margin-bottom: 10px;
 }
 
+/*LAYOUT FIXES FOR MOBILE*/
 
 @media (max-width: 640px) {
   .header-content {
